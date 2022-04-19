@@ -11,6 +11,7 @@
   <img align="center" alt="Otavio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Otavio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Otavio-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
+  <img align="right"  alt="Otavio-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/965766842545242125/965769497132826664/picasion.com_be3232d8a737f797e24042ae0c2f5d12.gif"
 </div>
   
   ##
@@ -22,3 +23,5 @@
  <a href="https://discord.gg/bHgT68Seqb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:otavio.magalhaes@soulasalle.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/otavio-magalh%C3%A3es-08b0371b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  </div>
