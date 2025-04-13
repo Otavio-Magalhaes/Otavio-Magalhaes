@@ -1,18 +1,22 @@
+<p align="right">
+  <a href="./README.ptBr.md"><img src="https://img.shields.io/badge/🇧🇷 Português-blue?style=flat-square" alt="Português"/></a>
+  <a href="./README.md"><img src="https://img.shields.io/badge/🇺🇸 English-blue?style=flat-square" alt="English"/></a>
+</p>
+
+
 <div align="center">
 
+# 👋 Hi, I'm Otavio Magalhães!
 
-# 👋 Olá, eu sou o Otavio Magalhães!
-
-
-🎨 Apaixonado por tecnologia e Games.  
-🌱 Estudando e desenvolvendo projetos com foco atualmente em Back-End.  
-🚀 Explorando novos mundos através do código.  
+🎨 Passionate about technology and games.  
+🌱 Currently studying and developing projects with a focus on Back-End.  
+🚀 Exploring new worlds through code.  
 
 </div>
 
 ---
 
-## 🚧 Tecnologias que estou me aperfeiçoando atualmente
+## 🚧 Technologies I'm currently improving
 
 <div align="center">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"/></code>
@@ -26,11 +30,11 @@
 
 ---
 
-## 💻 Tecnologias & Ferramentas que utilizo
+## 💻 Technologies & Tools I use
 
 <div align="center">
 
-### 🚀 Stack Principal
+### 🚀 Main Stack
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" title="Node.js"/></code>
 &nbsp;&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"/></code>
@@ -41,25 +45,17 @@
 &nbsp;&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/></code>
 
-
-
-### 🗄️ Banco de Dados
+### 🗄️ Databases
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/></code>
 &nbsp;&nbsp;
 <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/></code>
 
-
-
-### 🐳 Contêineres & APIs
+### 🐳 Containers & APIs
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" title="Docker"/></code>
 &nbsp;&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman"/></code>
-&nbsp;&nbsp;
 
-
-
-
-### 🧰 Ferramentas & Ambiente
+### 🧰 Tools & Environment
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/></code>
 &nbsp;&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="Visual Studio Code"/></code>
@@ -74,7 +70,7 @@
 
 ---
 
-## 🌐 Onde me encontrar:
+## 🌐 Where to find me:
 
 <div align="center">
   <a href="https://discord.gg/bHgT68Seqb" target="_blank">
@@ -92,12 +88,8 @@
 
 <div align="center">
   
-*"A vida é uma jornada, não um destino."*  
+*"Life is a journey, not a destination."*  
 — Hayao Miyazaki 🌸
 
-<img alt="Eu programando" src="https://i.imgur.com/2zqmS5M.png" width="500" >
+<img alt="Me coding" src="https://i.imgur.com/2zqmS5M.png" width="500" >
 </div>
-
-
-
-
