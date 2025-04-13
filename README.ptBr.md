@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# 👋 Olá, eu sou o Otavio Magalhães!
+# 👋 Olá, eu sou Otavio Magalhães!
 
 🎨 Apaixonado por tecnologia e Games.  
 🌱 Estudando e desenvolvendo projetos com foco atualmente em Back-End.  
