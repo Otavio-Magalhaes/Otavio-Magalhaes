@@ -8,9 +8,8 @@
 
 # 👋 Hi, I'm Otavio Magalhães!
 
-🎨 Passionate about technology and games.  
-🌱 Currently studying and developing projects with a focus on Back-End.  
-🚀 Exploring new worlds through code.  
+I’ve worked as a front-end developer using React.js and also WordPress. After spending a good amount of time in that area, I decided to get back to what really motivates me: the back-end.
+Right now, I'm focusing on improving my skills in Express.js, non-relational databases, Docker, and automated testing with Jest. I enjoy learning by doing and I'm always looking to improve both my projects and my knowledge.
 
 </div>
 
