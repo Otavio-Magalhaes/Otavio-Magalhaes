@@ -8,9 +8,9 @@
 
 # 👋 Olá, eu sou Otavio Magalhães!
 
-Já trabalhei como desenvolvedor front-end usando React.js e também com WordPress. Depois de um bom tempo focado nessa área, resolvi voltar pro que realmente me motiva: o back-end.
+Atuo como desenvolvedor back-end, com foco em Node.js. Antes disso, trabalhei com desenvolvimento front-end em React.js e também com WordPress, experiências que ampliaram minha visão técnica e contribuíram para minha formação completa como dev.
 
-No momento, estou aprofundando meus estudos em Express.js, bancos de dados não relacionais, Docker e testes automatizados com Jest. Gosto de aprender na prática e estou sempre buscando melhorar meus projetos e meus conhecimentos.
+Hoje, meu foco está totalmente voltado para o back-end, onde venho me especializando em Express.js, bancos de dados não relacionais, Docker e testes automatizados com Jest.
 
 </div>
 
