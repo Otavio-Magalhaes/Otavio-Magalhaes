@@ -8,8 +8,9 @@
 
 # 👋 Hi, I'm Otavio Magalhães!
 
-I’ve worked as a front-end developer using React.js and also WordPress. After spending a good amount of time in that area, I decided to get back to what really motivates me: the back-end.
-Right now, I'm focusing on improving my skills in Express.js, non-relational databases, Docker, and automated testing with Jest. I enjoy learning by doing and I'm always looking to improve both my projects and my knowledge.
+I work as a back-end developer, mainly with Node.js. Before that, I worked with front-end development using React.js and also with WordPress, experiences that helped me build a solid technical foundation and a broader view as a developer.
+
+Right now, my focus is fully on the back-end, and I've been sharpening my skills in Express.js, NoSQL databases, Docker, and automated testing with Jest.
 
 </div>
 
