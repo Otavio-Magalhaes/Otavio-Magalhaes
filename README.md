@@ -44,6 +44,7 @@ Right now, my focus is fully on the back-end, and I've been sharpening my skills
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/></code>
 &nbsp;&nbsp;
 <code><img src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/typescript/original/TypescriptOriginal.svg" title="TypeScript" width="40"></code>
+&nbsp;&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/></code>
 
 ### 🗄️ Databases
