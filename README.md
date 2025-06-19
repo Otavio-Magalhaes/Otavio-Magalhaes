@@ -10,7 +10,7 @@
 
 I work as a back-end developer, mainly with Node.js. Before that, I worked with front-end development using React.js and also with WordPress, experiences that helped me build a solid technical foundation and a broader view as a developer.
 
-ight now, my focus is fully on the back-end, and I've been sharpening my skills in NoSQL databases, Docker, and automated testing with Jest.
+Right now, my focus is fully on the back-end, and I've been sharpening my skills in NoSQL databases, Docker, and automated testing with Jest.
 I'm also expanding my knowledge into DevOps practices, including CI/CD pipelines and cloud platforms like AWS and GCP.
 
 </div>
@@ -32,7 +32,7 @@ I'm also expanding my knowledge into DevOps practices, including CI/CD pipelines
 
 ---
 
-## 💻 Technologies & Tools I use
+### 💻 Technologies & Tools I use
 
 <div align="center">
 
@@ -82,8 +82,8 @@ I'm also expanding my knowledge into DevOps practices, including CI/CD pipelines
 
 ---
 
-## 🌐 Where to find me:
-
+### 🌐 Where to find me:
+</br>
 <div align="center">
   <a href="mailto:otavio.magalhaes@soulasalle.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -95,8 +95,8 @@ I'm also expanding my knowledge into DevOps practices, including CI/CD pipelines
 </div>
 
 ---
-## 📈 GitHub Stats
-
+### 📈 GitHub Stats
+</br>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=otavio-magalhaes&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
