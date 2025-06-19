@@ -10,27 +10,29 @@
 
 Atuo como desenvolvedor back-end, com foco em Node.js. Antes disso, trabalhei com desenvolvimento front-end em React.js e também com WordPress, experiências que ampliaram minha visão técnica e contribuíram para minha formação completa como dev.
 
-Hoje, meu foco está totalmente voltado para o back-end, onde venho me especializando em Express.js, bancos de dados não relacionais, Docker e testes automatizados com Jest.
+No momento, meu foco está totalmente no back-end, e tenho aprimorado minhas habilidades em Express.js bancos de dados NoSQL, Docker e testes automatizados com Jest.
+Também estou expandindo meu conhecimento em práticas de DevOps, incluindo pipelines de CI/CD e plataformas de nuvem como AWS e GCP.
+
 
 </div>
 
 ---
 
 ## 🚧 Tecnologias que estou me aperfeiçoando atualmente
-
+</br>
 <div align="center">
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"/></code>
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"/></code>
+&nbsp;&nbsp;
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" title="CI/CD"/></code>
   &nbsp;&nbsp;
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/></code>
+  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" width="40" title="AWS"/></code>
   &nbsp;&nbsp;
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" title="Docker"/></code>
-  &nbsp;&nbsp;
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" title="GCP"/></code>
 </div>
 
 ---
 
-## 💻 Tecnologias & Ferramentas que utilizo
+### 💻 Tecnologias & Ferramentas que utilizo
 
 <div align="center">
 
@@ -50,12 +52,18 @@ Hoje, meu foco está totalmente voltado para o back-end, onde venho me especiali
 ### 🗄️ Banco de Dados
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/></code>
 &nbsp;&nbsp;
-<code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/></code>
+&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/></code>
 
-### 🐳 Contêineres & APIs
+### 🐳 Containers, APIs  & Cloud
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" title="Docker"/></code>
 &nbsp;&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman"/></code>
+&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" width="40" title="AWS"/></code>
+&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" title="GCP"/></code>
 
 ### 🧰 Ferramentas & Ambiente
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/></code>
@@ -67,23 +75,37 @@ Hoje, meu foco está totalmente voltado para o back-end, onde venho me especiali
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" title="Vite"/></code>
 &nbsp;&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" title="Jest"/></code>
+&nbsp;&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" title="CI/CD"/></code>
 
 </div>
 
 ---
 
-## 🌐 Onde me encontrar:
-
+### 🌐 Onde me encontrar:
+</br>
 <div align="center">
-  <a href="https://discord.gg/bHgT68Seqb" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
   <a href="mailto:otavio.magalhaes@soulasalle.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/otavio-magalh%C3%A3es-08b0371b1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</div>
+</br>
+
+---
+
+
+### 📈 GitHub Status
+</br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=otavio-magalhaes&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-magalhaes&layout=compact&theme=github_dark" />
+
 </div>
 
 ---
@@ -91,7 +113,7 @@ Hoje, meu foco está totalmente voltado para o back-end, onde venho me especiali
 <div align="center">
   
 *"A vida é uma jornada, não um destino."*  
-— Hayao Miyazaki 🌸
+— Hayao Miyazaki 
 
 <img alt="Eu programando" src="https://i.imgur.com/2zqmS5M.png" width="500" >
 </div>
