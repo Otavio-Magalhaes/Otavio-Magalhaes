@@ -11,7 +11,7 @@
 Atuo como desenvolvedor back-end, com foco em Node.js. Antes disso, trabalhei com desenvolvimento front-end em React.js e também com WordPress, experiências que ampliaram minha visão técnica e contribuíram para minha formação completa como dev.
 
 No momento, meu foco está totalmente no back-end, e tenho aprimorado minhas habilidades em Express.js bancos de dados NoSQL, Docker e testes automatizados com Jest.
-Também estou expandindo meu conhecimento em práticas de DevOps, incluindo pipelines de CI/CD e plataformas de nuvem como AWS e GCP.
+Também estou expandindo meu conhecimento em práticas de DevOps, incluindo pipelines de CI/CD e nuvem como AWS .
 
 
 </div>
@@ -26,8 +26,6 @@ Também estou expandindo meu conhecimento em práticas de DevOps, incluindo pipe
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" title="CI/CD"/></code>
   &nbsp;&nbsp;
   <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" width="40" title="AWS"/></code>
-  &nbsp;&nbsp;
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" title="GCP"/></code>
 </div>
 
 ---
@@ -62,8 +60,7 @@ Também estou expandindo meu conhecimento em práticas de DevOps, incluindo pipe
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman"/></code>
 &nbsp;&nbsp;
 <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" width="40" title="AWS"/></code>
-&nbsp;&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" title="GCP"/></code>
+
 
 ### 🧰 Ferramentas & Ambiente
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/></code>
