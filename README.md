@@ -94,8 +94,7 @@ I'm also expanding my knowledge into DevOps practices, including CI/CD pipelines
 ### 📈 GitHub Stats
 </br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=otavio-magalhaes&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-magalhaes&layout=compact&theme=github_dark" />
 
 </div>
